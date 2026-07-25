@@ -1,13 +1,10 @@
 {
   "profile": {
-    "name": "Matt Cromwell",
-    "tagline": "Fractional CGO for product companies",
-    "gravatarEmail": "matt@wpproducttalk.com",
+    "name": "Павел Беспалов",
+    "tagline": "",
+    "gravatarEmail": "",
     "bio": [
-      "I'm the founder of Roots & Fruit, a fractional Chief Growth Officer practice for product companies that want growth to feel deliberate—not reactive. I help founders and teams turn customer feedback into clear product priorities, align marketing, product, and customer experience around shared goals, and build operating systems that support steady renewal revenue without burning out teams or customers.",
-      "I co-founded GiveWP and grew it through an eight-figure acquisition, then led marketing and customer experience at scale across StellarWP brands including LearnDash, Kadence, and The Events Calendar.",
-      "Over more than a decade in product-led growth, I've focused on connecting what customers feel with how teams build—and turning that alignment into meaningful, measurable results.",
-      "I also co-host WP Product Talk, where product founders share what actually works in building sustainable software businesses."
+    
     ]
   },
   "social": {
@@ -21,34 +18,16 @@
   },
   "links": [
     {
-      "title": "Roots & Fruit",
-      "url": "https://rootsandfruit.com"
+      "title": "",
+      "url": ""
     },
-    {
-      "title": "WP Product Talk Podcast",
-      "url": "https://wpproducttalk.com"
-    },
-    {
-      "title": "GiveWP",
-      "url": "https://givewp.com"
-    },
-    {
-      "title": "My Writing",
-      "url": "https://mattcromwell.com"
-    }
+    
   ],
   "blog": {
-    "rssFeed": "https://www.mattcromwell.com/feed/",
+    "rssFeed": "ссылка",
     "wordCount": 75
   },
-  "support": {
-    "buttonText": "Buy Me a Coffee ☕️",
-    "url": "https://www.buymeacoffee.com/mattcromwell"
-  },
-  "contact": {
-    "buttonText": "Contact Me ✉️",
-    "url": "https://mattcromwell.com/contact"
-  },
+  
   "theme": "dark",
   "gravatarHovercard": true
 }
